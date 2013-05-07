@@ -1,4 +1,4 @@
-## Basics
+## Lo Básico
 
 Este proyecto utiliza Moovweb para crear una version movil del sitio www.unicentrobogota.com.
 
